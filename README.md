@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mj1031
+- 👋 Hi, I’m Manoj Ganeshe
 - 👀 I’m interested in Business & Data Analysis
 - 🌱 I’m currently learning Genarative AI for Business Intelligence
 - 💞️ I’m looking to collaborate on Business Analysis, Data & AI projects
