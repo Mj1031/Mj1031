@@ -5,7 +5,7 @@
 - 📫 How to reach me manojganeshe@Gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy talking a lot with strangers
-- 💼 Currently seeking job opportunities in the field of data analytics & business intelligence.
+- 💼 Currently seeking job opportunities in the field of Business Data Analytics & Business Intelligence.
 
 <!---
 Mj1031/Mj1031 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
